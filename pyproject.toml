@@ -1,5 +1,5 @@
 [project]
-name = "server-down"
+name = "prometheus_memory"
 version = "0.1.0"
 description = ""
 authors = [
